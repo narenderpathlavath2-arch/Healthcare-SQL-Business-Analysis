@@ -1,0 +1,62 @@
+KEY BUSINESS INSIGHTS
+Healthcare & Pharmaceutical Business Analysis
+
+
+1. Pediatrics has the highest total charges
+
+Finding:
+Pediatrics generated the highest total charges in the dataset.
+
+Meaning:
+Pediatrics is an important contributor to overall healthcare charges.
+
+Recommendation:
+Maintain sufficient staff and resources in Pediatrics to support patient demand.
+
+
+2. Pediatrics has the highest waiting time
+
+Finding:
+Pediatrics has the highest average waiting time at 35 minutes.
+
+Meaning:
+The department has both high charges and high waiting time, which may indicate higher operational workload.
+
+Recommendation:
+Review staffing and appointment scheduling in Pediatrics to reduce waiting time.
+
+
+3. Appointment cancellation rate is 5%
+
+Finding:
+5% of appointments were cancelled.
+
+Meaning:
+Most appointments were completed, but some appointments did not result in completed visits.
+
+Recommendation:
+Monitor cancellations and use appointment reminders to reduce avoidable cancellations.
+
+
+4. Follow-up visits generate the highest charges
+
+Finding:
+Follow-up visits generate the highest total charges among visit types.
+
+Meaning:
+Follow-up services are an important contributor to charges and patient activity.
+
+Recommendation:
+Ensure sufficient appointment capacity for follow-up services.
+
+
+5. Dr. Meera has the highest workload
+
+Finding:
+Dr. Meera has the highest number of appointments.
+
+Meaning:
+Dr. Meera has the highest patient demand/workload among the doctors.
+
+Recommendation:
+Monitor workload and consider better appointment distribution if demand remains high.
